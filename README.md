@@ -75,7 +75,7 @@ kinora/
 
 ## Getting Started
 
-*Coming soon*
+This repository currently holds the product specification and empty service directories. See [docs/deployment-readiness.md](./docs/deployment-readiness.md) for what’s needed to make the project deployable.
 
 ---
 
