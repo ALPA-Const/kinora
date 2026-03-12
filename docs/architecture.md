@@ -41,7 +41,7 @@ Kinora is a private family communication platform built as a Node.js monorepo wi
 
 | Service | Technology | Purpose |
 |---------|-----------|---------|
-| Web Frontend | Next.js 14 | Main browser application |
+| Web Frontend | Next.js 15 | Main browser application |
 | Mobile App | React Native | iOS + Android (future phase) |
 | API Server | Express + TypeScript | REST API + WebSocket |
 | Database | PostgreSQL 15 + PostGIS | Primary data store |
