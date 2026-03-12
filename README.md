@@ -39,6 +39,7 @@ Kinora is a private family communication and connection platform. Unlike public 
 ## Documentation
 
 - [Elite MVP Master Prompt](./kinora-elite-mvp-prompt.md) - Complete development specification
+- [Copilot Workflow Guide](./docs/COPILOT-WORKFLOW.md) - How to interact with GitHub Copilot on pull requests
 
 ---
 
